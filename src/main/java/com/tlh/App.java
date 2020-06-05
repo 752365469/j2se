@@ -10,6 +10,6 @@ public class App
     {
 //        Class.forName("com.mysql.jdbc.Driver");
         System.out.println("初始化");
-        System.out.println( "Hello sss World!" );
+        System.out.println( "Hello ssdsfadsf
     }
 }
